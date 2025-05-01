@@ -32,5 +32,5 @@ npm start
 
 A aplicação utiliza a Greek Mythology API (https://www.mythologyapi.com/), que fornece dados sobre deuses e figuras mitológicas gregas. A API retorna informações como nome, descrição, domínio e imagem dos deuses.
 
-
+Link do site: https://MatheusCEvangelista.github.io/mitologia-grega
 
