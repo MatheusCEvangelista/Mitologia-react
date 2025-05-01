@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mitologia-grega/static/css/main.e6c13ad2.css",
+    "main.js": "/mitologia-grega/static/js/main.a365bc08.js",
+    "static/js/453.54b0ce12.chunk.js": "/mitologia-grega/static/js/453.54b0ce12.chunk.js",
+    "index.html": "/mitologia-grega/index.html",
+    "main.e6c13ad2.css.map": "/mitologia-grega/static/css/main.e6c13ad2.css.map",
+    "main.a365bc08.js.map": "/mitologia-grega/static/js/main.a365bc08.js.map",
+    "453.54b0ce12.chunk.js.map": "/mitologia-grega/static/js/453.54b0ce12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a365bc08.js"
+  ]
+}
