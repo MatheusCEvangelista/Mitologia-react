@@ -1,6 +1,6 @@
 # Greek Mythology React App
 
-Este é um aplicativo React que explora a mitologia grega, consumindo dados de uma API pública. A aplicação lista deuses e outras figuras mitológicas, permitindo que o usuário veja detalhes sobre cada um.
+Este é um aplicativo React que explora a mitologia grega, consumindo dados de uma API local rodando em server json. A aplicação lista deuses e outras figuras mitológicas, permitindo que o usuário veja detalhes sobre cada um.
 
 ## Funcionalidades
 
@@ -30,7 +30,7 @@ npm start
 
 ## API
 
-A aplicação utiliza a Greek Mythology API (https://www.mythologyapi.com/), que fornece dados sobre deuses e figuras mitológicas gregas. A API retorna informações como nome, descrição, domínio e imagem dos deuses.
+A aplicação utiliza a API JSON local, que fornece dados sobre deuses e figuras mitológicas gregas. A API retorna informações como nome, descrição, domínio e imagem dos deuses.
 
 Link do site: https://MatheusCEvangelista.github.io/mitologia-grega
 
