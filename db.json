@@ -1,0 +1,29 @@
+{
+    "deities": [
+      {
+        "id": 1,
+        "name": "Zeus",
+        "description": "Deus do céu e do trovão, rei dos deuses.",
+        "symbol": "Raio"
+      },
+      {
+        "id": 2,
+        "name": "Poseidon",
+        "description": "Deus do mar, irmão de Zeus.",
+        "symbol": "Tridente"
+      },
+      {
+        "id": 3,
+        "name": "Hades",
+        "description": "Deus do submundo e dos mortos.",
+        "symbol": "Capacete da invisibilidade"
+      },
+      {
+        "id": 4,
+        "name": "Atena",
+        "description": "Deusa da sabedoria e da guerra estratégica.",
+        "symbol": "Coruja"
+      }
+    ]
+  }
+  
